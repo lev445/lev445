@@ -4,6 +4,7 @@
 # [🌐] Special information:
 
   * At now moment i'm live in 🇷🇺 Russia
+  * My name: en: Lev (ru: Лев)
   * I am working on projects:
     - MaXOS
     - secret...
@@ -16,5 +17,5 @@
 ## [📎] Software I use:
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-   ![Hyprland]
-   ![GCC]
+   ![Hyprland](https://img.shields.io/badge/hyprland-%23945BB3.svg?style=for-the-badge&logo=hyprland&logoColor=white)
+   ![GCC](https://img.shields.io/badge/GCC-666666?style=for-the-badge&logo=gnu&logoColor=white)
