@@ -21,4 +21,4 @@
    ![GCC](https://img.shields.io/badge/GCC-666666?style=for-the-badge&logo=gnu&logoColor=white)
    ![ArchLinux](https://img.shields.io/badge/archlinux-0f94d2.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 # Alsoo..
-** I use Arch btw **
+**I use Arch btw**
