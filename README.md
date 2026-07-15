@@ -13,4 +13,8 @@
    ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
    ![NASM](https://img.shields.io/badge/nasm-%23000000.svg?style=for-the-badge&logo=nasm&logoColor=white)
-## [📊] My stats:
+## [📎] Software I use:
+   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+   ![Hyprland]
+   ![GCC]
