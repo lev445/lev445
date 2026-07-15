@@ -20,4 +20,4 @@
    ![Hyprland](https://img.shields.io/badge/hyprland-%23945BB3.svg?style=for-the-badge&logo=hyprland&logoColor=white)
    ![GCC](https://img.shields.io/badge/GCC-666666?style=for-the-badge&logo=gnu&logoColor=white)
    ![ArchLinux](https://img.shields.io/badge/archlinux-0f94d2.svg?style=for-the-badge&logo=archlinux&logoColor=white)
-### I use arch btw
+# I use arch btw
