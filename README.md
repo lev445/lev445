@@ -7,3 +7,8 @@
   * I am working on projects:
     - MaXOS
     - secret...
+# [⛰️] Programming languages ​​I write in:
+  * Go
+  * Ruby
+  * Python
+  * Nasm and C
