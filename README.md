@@ -5,9 +5,6 @@
 
   * At now moment i'm live in 🇷🇺 Russia
   * My name: en: Lev (ru: Лев)
-  * I am working on projects:
-    - MaXOS
-    - secret...
 ## [⛰️] My stack:
    ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
